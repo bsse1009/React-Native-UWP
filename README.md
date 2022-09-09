@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/hrdipto/react-native-app
+git clone https://github.com/bsse1009/React-Native-UWP.git
 cd react-native-app
 yarn install
 npx react-native-windows-init --overwrite
